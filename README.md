@@ -15,7 +15,7 @@ Predicting the future value of a customer is essential for targeted marketing an
 * [How to Run](#how-to-run)
 * [Dependencies](#dependencies)
 * [Results](#results)
-* [License](#license)
+
 
 ---
 
